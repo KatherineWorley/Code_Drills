@@ -21,8 +21,18 @@
         puts i 
       end 
     end 
-        
 
+    1.upto(10) do |i|
+      if i % 5 == 0 and i % 3 == 0
+        puts "This number is divisible by 5 or 3"
+      elsif i % 5 == 0 
+        puts "This number is divisible by 5"
+      elsif i % 3 == 0 
+        puts "This number is divisible by 3"
+      else
+        puts i 
+      end 
+    end 
 
 (1..10).each{|i| 
     x = ''
