@@ -41,8 +41,12 @@
     puts(x.empty? ? i : x);
 }
 
-
-
+(1..10).each { |i|
+  x = ''
+  x += 'Fizz' if i % 3 == 0
+  x += 'Buzz' if i % 5 == 0
+  puts (x.empty? ? i : x);
+}
 
 def fizzbuzz(number)
   number.times do |i|
