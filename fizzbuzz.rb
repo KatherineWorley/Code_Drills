@@ -83,14 +83,14 @@ def fizzbuzz(number)
      elsif i % 3 == 0
       puts "Fizz"
     else
-     puts i
-     
+     puts i 
     end
   end
-
 end
 
 puts fizzbuzz(20)
+
+
 
 def fizzbuzz(number)
   number.times do |i|
@@ -118,8 +118,25 @@ def fizzbuzz(number)
       puts "fizz"
     else i 
     end 
-end 
+  end
+end  
+
 puts fizzbuzz(10)
+
+
+
+
+def fizzbuzz(number)
+  number.times do |i|
+    if i % 3 == 0 && i % 5 == 0
+      puts "fizzbuzz"
+    elsif i % 5 == 0
+      puts "buzz"
+    elsif i % 3 == 0
+      puts "fizz"
+    else i 
+    end 
+  end 
         
           
       
