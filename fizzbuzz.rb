@@ -107,7 +107,6 @@ end
 
 puts fizzbuzz(10)
 
-
 def fizzbuzz(number)
   number.times do |i|
     if i % 3 == 0 && i % 5 == 0
@@ -123,9 +122,6 @@ end
 
 puts fizzbuzz(10)
 
-
-
-
 def fizzbuzz(number)
   number.times do |i|
       if i % 3 == 0 && i % 5 == 0
@@ -139,6 +135,7 @@ def fizzbuzz(number)
   end 
 end 
     
+puts fizzbuzz(10)
 
 def fizzbuzz(number)    
     number.times do |i|
@@ -152,6 +149,8 @@ def fizzbuzz(number)
         end 
      end 
   end 
+
+puts fizzbuzz(10)
           
       
 
