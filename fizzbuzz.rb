@@ -45,7 +45,18 @@
     puts i 
   end 
 end 
-      
+
+1.upto(10) do |i|
+  if i % 5 == 0 and i % 3 == 0
+    puts "/5 or /3"
+  elsif i % 5 == 0 
+    puts "/5"
+  elsif i % 3 == 0
+    puts "/3"
+  else
+    puts i  
+  end 
+end 
 
 
 
@@ -83,7 +94,7 @@ puts fizzbuzz(20)
 
 def fizzbuzz(number)
   number.times do |i|
-    if i % 3 == 0 && i % 5 ==0
+    if i % 3 == 0 && i % 5 == 0
       puts "FizzBuzz"
     elsif i % 5 == 0
       puts "Buzz"
@@ -95,6 +106,22 @@ def fizzbuzz(number)
 end 
 
 puts fizzbuzz(10)
+
+
+def fizzbuzz(number)
+  number.times do |i|
+    if i % 3 == 0 && i % 5 == 0
+      puts "fizzbuzz"
+    elsif i % 5 == 0
+      puts "buzz"
+    elsif i % 3 == 0
+      puts "fizz"
+    else i 
+    end 
+end 
+puts fizzbuzz(10)
+        
+          
       
 
 
