@@ -4,7 +4,7 @@ require	'sinatra'
 get '/:zip_code' do
 	zip_code = params['zip_code']
 	puts zip_code
-	key = 'LONG KEY INSERTED HERE FROM OPEN WEATHER MAP'
+	key = 'LONG KEY INSERTED HERE FROM OPEN WEATHER MAP = KEYS ARE USER/PASSWORD REMEMBER TO USE VARIABLE'
 
 	url = "http://api.openweathermap.org/data/2.5/weather?zip=#{zip_code},us&appid=#{key}"
 
