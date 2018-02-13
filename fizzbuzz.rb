@@ -34,6 +34,21 @@
       end 
     end 
 
+1.upto(10) do |i|
+  if i % 5 == 0 and i % 3 == 0
+    puts "This is /5 or /3"
+  elsif i % 5 == 0
+    puts "This is /5"
+  elsif i % 3 == 0
+    puts "This is /3"
+  else
+    puts i 
+  end 
+end 
+      
+
+
+
 (1..10).each{|i| 
     x = ''
     x += 'Fizz' if i%3==0
@@ -66,6 +81,21 @@ end
 
 puts fizzbuzz(20)
 
+def fizzbuzz(number)
+  number.times do |i|
+    if i % 3 == 0 && i % 5 ==0
+      puts "FizzBuzz"
+    elsif i % 5 == 0
+      puts "Buzz"
+    elsif i % 3 == 0
+      puts "Fizz"
+    else i 
+    end 
+  end
+end 
+
+puts fizzbuzz(10)
+      
 
 
 
