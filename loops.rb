@@ -1,11 +1,14 @@
+# Variable of Veg
 veg = ['cuc', 'pep', 'zuc']
 
+# While loop to iterate through the variable of veg the full legth of the array +1 at a time. 
 index = 0
 while index < veg.length do
 	puts "my fav veg is #{veg[index]}"
 	index = index + 1	
 end
 
+# Interpolation of each loop to take the while loop interation and pass it through the output into a sentence. 
 veg.each do |veggie| 
 	puts "my fav veggie is #{veggie.capitalize}." 
 end
