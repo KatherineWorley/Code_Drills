@@ -152,6 +152,11 @@ def fizzbuzz(number)
 
 puts fizzbuzz(10)
           
+
+def fizzbuzz(number)
+    number.times do |i|
+      if i % 3 == 0 && i % 5 == 0
+        puts "fizz buzz"
       
 
 
