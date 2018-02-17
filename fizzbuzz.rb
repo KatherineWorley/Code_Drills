@@ -157,6 +157,17 @@ def fizzbuzz(number)
     number.times do |i|
       if i % 3 == 0 && i % 5 == 0
         puts "fizz buzz"
+      elsif i % 5 == 0
+        puts "buzz"
+      elsif i % 3 == 0 
+        puts "fizz"
+      else i 
+      end 
+    end 
+end 
+
+puts fizzbuzz(10)
+          
       
 
 
