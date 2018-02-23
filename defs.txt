@@ -1,0 +1,28 @@
+
+REQUIRE
+`require` reads and parses files only once, when they were referenced for the first time. (Runs off memory)
+	It reads the file from the file system, parses it, saves to the memory and runs it in a given place. What does it mean? Simply, even if you change the required file when the script is running, those changes won't be applied - Ruby will use the file from memory, not from the file system.
+
+LOAD
+`load` reads and parses files every time you call `load`.
+
+Note that we say filename not filename.rb mostly because not all extensions use files that ends with .rb
+
+
+________________________________
+test_module.rb
+test_class.rb
+
+can use the load 'test_module.rb' just before the class definition in test_class.rb file to get the access to the code contained in our module.
+________________________________
+
+
+
+
+
+
+
+
+
+
+https://prograils.com/posts/ruby-methods-differences-load-require-include-extend
