@@ -1,5 +1,5 @@
-require 'httparty'
-require	'sinatra'
+# require 'httparty'
+# require	'sinatra'
 
 get '/:zip_code' do
 	zip_code = params['zip_code']
