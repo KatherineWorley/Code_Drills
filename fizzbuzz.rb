@@ -199,7 +199,21 @@ end
 
 puts fizzbuzz(20)
 
+def fizzbuzz(number)
+  number.times do |i|
+    if i % 3 == 0 && i % 5 == 0
+      puts "fizzbuzz"
+    elsif i % 5 == 0
+      puts "fizz"
+    elsif i % 3 == 0 
+      puts "buzz"
+    else i 
+    end 
+  end 
+end 
 
+puts fizzbuzz(30)
+      
 
 
         

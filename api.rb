@@ -17,5 +17,4 @@ get '/:zip_code' do
 	wind_direction = response['wind']['deg']
 
 	"For #{city_name}, it is currently #{f_temp}° F, with #{description}. That wind is blowing #{wind_speed}MPG at #{wind_direction}°"
-
 end 

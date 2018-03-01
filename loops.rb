@@ -21,3 +21,14 @@ while !proper_response do
 		proper_response = true 
 	end 
 end 
+
+
+
+people = [ "peter", "piper", "picked", "pepper"]
+
+index = 0 
+while index <  people.length do 
+	puts "There's a story about #{people[index]}"
+	index = index + 1
+end
+
