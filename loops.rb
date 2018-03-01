@@ -32,3 +32,6 @@ while index <  people.length do
 	index = index + 1
 end
 
+people.each do |names|
+	puts "Another story about #{people.capitalize}."
+end 
