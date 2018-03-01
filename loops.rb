@@ -24,7 +24,7 @@ end
 
 
 
-people = [ "peter", "piper", "picked", "pepper"]
+people = ['peter', 'piper', 'picked', 'pepper']
 
 index = 0 
 while index <  people.length do 
