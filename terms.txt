@@ -1,0 +1,149 @@
+A/B Testing
+A/B testing, also known as split testing, is a method of comparing two versions of online content against each other to determine which one drives more conversions and revenue. It is a great method for figuring out the most effective promotional and marketing strategies.
+
+API
+API stands for Application Programming Interface and is basically code that allows apps and websites to communicate with each other. The API defines the correct way for a developer to write a program that requests information from another application. A good example would be an app like CityMapper that retrieves information from city transports systems and provides real-time travel updates and advice.
+
+Accessibility
+Accessibility is a function of access that enables people with disabilities to understand, navigate and interact with a website or application. Designing for accessibility means designing for a very diverse set of users, which might include users who are color blind, blind, visually impaired, deaf, people with cognitive disabilities, and so on.
+
+Avatar
+An avatar is an image that represents an online user on the screen. Avatars are typically used in gaming, online forums, and chatrooms and can be represented in either three-dimensional or two-dimensional forms. They can often be customized and personalized by users.
+
+Breadcrumb
+Breadcrumb or breadcrumb trail is a secondary navigation aid that helps users understand and keep track of their location on a web page.
+
+Bug
+A software bug is a program error that causes it to crash or produce incorrect and unexpected results. Bugs prevent applications from functioning as they should and are most commonly a human mistake.
+
+Backlog
+A backlog is a list of tasks and requirements that need to be completed within a sprint. The agile product backlog represents a prioritized list of tasks that is derived from the roadmap.
+
+Back-end (Development)
+Back-end development is simply writing the code that is not seen by the end user but essentially powers the application. Back-end developers are responsible for building the logic behind the application and organizing the site’s structure.
+
+Chatbot
+A chatbot is a computer program that uses textual and auditory methods to conduct conversations with human users online. It is powered by artificial intelligence and enables human-computer interactions via a chat interface.
+
+CRM Software
+CRM (Customer Relationship Management) Software refers to a category of software products that help businesses manage a diverse range of business processes, such as sales automation, customer data, customer interactions, and so on.
+
+Clickstream
+Clickstream is a record of a user’s activities online, including every website or page the user visits. It’s represented as a path that the visitor takes through the website.
+
+Cache
+Cache is a temporary storage location on your computer that stores commonly accessed data to shorten data access times and reduce latency.
+
+CSS
+CSS (Cascading Style Sheets) is a language used to add style, such as fonts, colors, spacing, layout and other, to web documents.
+
+Conversion Rate
+Conversion Rate refers to a percentage of website visitors who complete a desired action on the site.
+
+DevOps
+DevOps is the combination of people, practices, cultural philosophies and products that enable organizations to deliver applications at high velocity. It is often achieved through better communication and collaboration between software developers and IT professionals.
+
+End Users
+In product development, an end user represents the person for whom the product is designed/created and who is ultimately intended to use it.
+
+Engaged Time
+Engaged time is a metric that tracks the amount of time a user spends on a specific page on a site. This helps businesses determine what users want as well as identify any friction points that could be removed.
+
+Experience Architecture
+Experience architecture combines multiple user experience and design processes, like information architecture, experience design, and interaction design, to articulate a clear user journey.
+
+Eye tracking
+Eye tracking is the process of measuring eye activity. It uses tools like special glasses to record what users look at and in what order.
+
+Emoticon
+An emoticon is a sequence of printable characters that represent a facial expression and are used to convey emotions in a text medium.
+
+Fishbone Diagram
+Fishbone Diagram is designed to demonstrate the cause and effect relationship and can help to visually display the various potential causes for a problem or effect. It is known as Fishbone Diagram because of its shape resembling a fish skeleton.
+
+Front-end (Development)
+Front-end development is a combination of programming and layout that powers the interactions and visuals of a site. Front-end developers use CSS, HTML and presentational JavaScript code to implement web app designs created by web designers.
+
+Focus Group
+Focus Group is a research method that uses a group of target users to identify information required to develop or improve a product. A focus group is usually led by a moderator that guides the discussion to obtain feedback about products, features, users, strategies, and so on.
+
+Flat Design
+Flat design is a minimalistic style of interface design that emphasizes usability and uses a minimum of stylistic elements, typography, and flat colors to create the illusion of three dimensions.
+
+GitHub
+GitHub is a web-based development platform that developers use to share and review code, collaborate on projects, and learn from their peers.
+
+Gamification
+Gamification is the process of making the most boring actions funnier and more entertaining to execute in an attempt to engage and retain the user’s attention.
+
+Geolocation Indicator
+Geolocation indicators make it possible to tailor the experience to every user based on where they are. They are especially popular on mobile apps that require location-based design, such as mapping or travel services.
+
+Heart Framework
+Heart Framework is Google’s user experience tool that combines traditional metrics with emotion-led indicators to learn more about their customers, their emotions and user experience on a larger scale.
+
+Hack
+A hack is a quick, unconventional solution to solve a problem.
+
+IP Address
+Every device connected to a network has a unique identifier known as its IP address.
+
+Iterative Development
+Iterative development is a development approach that breaks down the development process into smaller cycles. Usually, a set period of time is allocated for every cycle, such as data gathering, design, development, and testing.
+
+iOS
+iOS is a mobile operating system created by and used exclusively on Apple products.
+
+Javascript
+Javascript is a programming language of HTML and the web. It is often used to create interactive effects and dynamic pages.
+
+Landing Page
+A landing page is basically any web page on a site that a visitor “lands” on. Landing pages often act as extensions of ads, search results or links that led a visitor to click through and are designed to drive higher conversions.
+
+KPIs
+KPIs stand for Key Performance Indicators and are used to measure the usability and effectiveness of a site or digital design.
+
+MVP
+MVP, or Minimal Viable Product, is a version of a product that has the minimum amount of features but can be used for user testing or demonstration. This approach allows for a more elaborate, in-depth testing phase before its potential is determined.
+
+Mental Model
+A mental model is an explanation of a person’s thought process about how something works in real life. The closer a user’s mental model is to the functionality of a site, the more intuitive user experience.
+
+Mockup
+A mockup is a detailed static representation of the design that clearly displays the information structure, renders the content and demonstrates the basic functionality.
+
+Open Source
+The term “open source” refers to something that is publicly accessible and can be used or modified by anyone.
+
+Path
+A path is the sequence of steps a user takes when navigating through a site and can often be shown by breadcrumbs.
+
+Persona
+A user persona is a representation of a target user that is created based on research findings and available data. User personas are typically fictional, but the information used to create them is not.
+
+Prototype
+A prototype is a highly detailed representation of the final product that can simulate user interactions with the interface.
+
+Refactoring
+Code refactoring is a technique for restructuring and improving code hygiene as well as optimizing code design for agile programming.
+
+Responsive (Design)
+Responsive design is an approach to web design aimed at allowing a website to adapt to the device a user is viewing it on.
+
+Sprints
+A sprint is a set period of time during which a chosen task must be completed and made ready for a review. Commonly, a sprint lasts between one and three weeks.
+
+Slack
+Slack is a real-time messaging and archiving app that helps teams collaborate and share ideas more effectively.
+
+Usability Test
+Usability testing is a research method used to measure the accessibility and ease of use of a product or design by testing it with real users.
+
+User Journey
+A user journey is a sequence of steps a user takes to reach their goal when navigating a website. It is simply an experience a user has while interacting with software.
+
+Widget
+A widget is an on-screen element that users interact with. Common examples of widgets are contact forms, calendar tools, sliders, and so on.
+
+Conclusion
+You’re quite right in thinking that it’s almost impossible to know all the lingo. But maintaining an up-to-date understanding of the change and evolution of design terminology is the only way for designers and developers to speak the same language and work together effectively.
